@@ -1,0 +1,2 @@
+instalar via init do projeto node
+npm init
